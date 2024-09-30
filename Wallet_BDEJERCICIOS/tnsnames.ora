@@ -1,0 +1,12 @@
+bdejercicios_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g254cdfab9f0581_bdejercicios_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+bdejercicios_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g254cdfab9f0581_bdejercicios_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+bdejercicios_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g254cdfab9f0581_bdejercicios_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+bdejercicios_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g254cdfab9f0581_bdejercicios_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+bdejercicios_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g254cdfab9f0581_bdejercicios_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
